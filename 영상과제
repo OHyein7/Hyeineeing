@@ -1,0 +1,339 @@
+# LUMIA AI Brand Advertisement
+
+## AI 기반 브랜드 광고 스토리보드
+
+---
+
+# 1. 브랜드 아이덴티티
+
+## 브랜드명
+
+LUMIA
+
+## 제품
+
+AI 기반 맞춤형 향수
+
+## 브랜드 소개
+
+LUMIA는 인공지능 기술을 활용하여 사용자의 기억과 감정을 분석하고, 특별한 순간의 분위기를 향기로 표현하는 미래형 향수 브랜드이다.
+
+## 타겟 고객
+
+* 20~30대 감성 소비자
+* 개인의 경험과 추억을 중요하게 생각하는 사용자
+* 새로운 기술과 감성적인 브랜드 경험을 선호하는 사용자
+
+## 톤앤매너
+
+* 미래적(Futuristic)
+* 고급스러운(Luxury)
+* 감성적인(Emotional)
+* 시네마틱(Cinematic)
+
+## USP(차별점)
+
+사용자의 기억과 감정을 기반으로 세상에 하나뿐인 향기를 제공한다.
+
+## 캠페인 목표
+
+브랜드 인지도 형성
+
+## 핵심 메시지
+
+"당신의 특별한 순간을 향기로 기억하세요."
+
+---
+
+# 2. 제작 도구 목록
+
+| 목적     | 사용 도구               | 활용 이유                   |
+| ------ | ------------------- | ----------------------- |
+| 이미지 생성 | Midjourney / DALL-E | 브랜드 키비주얼 및 제품 이미지 제작    |
+| 영상 생성  | Runway / Kling      | 생성 이미지를 움직이는 광고 영상으로 변환 |
+| 음악 생성  | Suno                | 브랜드 분위기에 맞는 배경음악 제작     |
+| 음성 생성  | ElevenLabs          | 광고 내레이션 생성              |
+| 영상 편집  | CapCut              | 영상 통합, 자막, 오디오 조정       |
+
+---
+
+# 3. 스토리보드
+
+---
+
+# Scene 1. 잊혀지는 기억
+
+## 씬 길이
+
+3초
+
+## 목표 메시지
+
+소중한 순간은 시간이 지나면 흐려진다.
+
+## 화면 구성
+
+어두운 공간에서 한 사람이 오래된 사진을 바라본다.
+사진 주변으로 은은한 빛이 퍼지며 기억을 표현한다.
+
+구도:
+
+* 인물 중심 미디엄 샷
+* 어두운 배경
+* 부드러운 조명
+
+텍스트:
+없음
+
+## 내레이션
+
+"잊고 싶지 않은 순간이 있나요?"
+
+## 사용 도구 및 목적
+
+* 이미지 생성: Midjourney
+
+  * 감성적인 광고 장면 제작
+* 비디오 생성: Runway
+
+  * 카메라 이동 효과 추가
+* 오디오 생성: Suno
+
+  * 감성적인 분위기의 배경음 제작
+
+## 입력 프롬프트
+
+cinematic scene of a young person looking at old memories, soft emotional lighting, dreamy atmosphere, luxury advertisement style, 16:9
+
+## 출력 결과 요약
+
+감성적인 브랜드 광고의 시작 장면을 생성했다.
+
+## 결과 파일명
+
+scene01_memory.png
+scene01_memory.mp4
+
+---
+
+# Scene 2. 제품 등장
+
+## 씬 길이
+
+2초
+
+## 목표 메시지
+
+AI 기술이 기억을 향기로 만든다.
+
+## 화면 구성
+
+투명한 유리 향수병이 어두운 공간에서 등장한다.
+병 내부에는 빛나는 입자가 움직이며 미래적인 분위기를 연출한다.
+
+구도:
+
+* 제품 중심 클로즈업
+* 고급 화장품 광고 스타일
+
+텍스트:
+없음
+
+## 내레이션
+
+"당신만의 기억을 담은 향기."
+
+## 사용 도구 및 목적
+
+* 이미지 생성: Midjourney
+
+  * 제품 디자인 제작
+* 비디오 생성: Kling
+
+  * 제품 등장 모션 제작
+* 오디오 생성: Suno
+
+  * 고급스러운 광고 음악 제작
+
+## 입력 프롬프트
+
+luxury futuristic perfume bottle, transparent glass, glowing particles inside, premium cosmetic advertisement, cinematic lighting, 8k
+
+## 출력 결과 요약
+
+미래적인 AI 향수 제품 이미지를 생성했다.
+
+## 결과 파일명
+
+scene02_product.png
+scene02_product.mp4
+
+---
+
+# Scene 3. 경험 전달
+
+## 씬 길이
+
+3초
+
+## 목표 메시지
+
+LUMIA는 순간의 감정을 다시 경험하게 한다.
+
+## 화면 구성
+
+사용자가 향수를 뿌리는 순간 주변 공간이 빛으로 변하고 아름다운 기억 장면이 나타난다.
+
+구도:
+
+* 인물 손과 제품 중심
+* 빛 효과 활용
+* 몽환적인 분위기
+
+텍스트:
+없음
+
+## 내레이션
+
+"기억은 향기로 다시 살아납니다."
+
+## 사용 도구 및 목적
+
+* 이미지 생성: DALL-E
+
+  * 장면 이미지 제작
+* 비디오 생성: Runway
+
+  * 변환 효과 추가
+* 오디오 생성: ElevenLabs
+
+  * 자연스러운 광고 음성 생성
+
+## 입력 프롬프트
+
+person spraying futuristic perfume, magical light transformation, emotional cinematic commercial, beautiful memories appearing
+
+## 출력 결과 요약
+
+제품 사용 경험과 감성 메시지를 표현하는 장면 생성
+
+## 결과 파일명
+
+scene03_experience.png
+scene03_experience.mp4
+
+---
+
+# Scene 4. 브랜드 메시지
+
+## 씬 길이
+
+2초
+
+## 목표 메시지
+
+브랜드 이름과 핵심 메시지를 기억시킨다.
+
+## 화면 구성
+
+LUMIA 향수병과 브랜드 로고가 화면 중앙에 등장한다.
+
+구도:
+
+* 제품 정면 배치
+* 고급스러운 배경
+* 광고 엔딩 화면
+
+텍스트:
+LUMIA
+
+Capture your memories.
+
+## 내레이션
+
+"당신의 특별한 순간을 향기로 기억하세요."
+
+## 사용 도구 및 목적
+
+* 이미지 생성: Midjourney
+
+  * 브랜드 엔딩 이미지 제작
+* 영상 생성: Runway
+
+  * 로고 등장 효과 제작
+
+## 입력 프롬프트
+
+luxury perfume advertisement ending scene, futuristic glass bottle, elegant logo reveal, cinematic lighting
+
+## 출력 결과 요약
+
+브랜드 인지와 CTA를 위한 마지막 광고 장면 생성
+
+## 결과 파일명
+
+scene04_logo.png
+scene04_logo.mp4
+
+---
+
+# 4. 프롬프트 개선 기록
+
+## Scene 2 제품 이미지 프롬프트 개선
+
+### 수정 전
+
+futuristic perfume bottle, beautiful
+
+### 문제점
+
+* 제품 형태가 불안정함
+* 고급 브랜드 광고 느낌 부족
+* 미래적인 요소가 부족함
+
+### 수정 후
+
+luxury transparent glass perfume bottle, minimal futuristic design, glowing particles inside, premium cosmetic advertisement, cinematic lighting
+
+### 수정 이유
+
+"luxury", "transparent glass", "cinematic lighting" 등의 구체적인 스타일 키워드를 추가하여 제품의 고급감과 광고 분위기를 강화했다.
+
+### 결과 변화
+
+제품 형태가 안정적으로 생성되었고 브랜드 이미지와 일치하는 결과물을 얻었다.
+
+---
+
+# 5. 최종 영상 정보
+
+파일명:
+LUMIA_brand_ad.mp4
+
+영상 길이:
+10초 이내
+
+예상 해상도:
+1920x1080
+
+프레임:
+30fps
+
+비디오 코덱:
+H.264
+
+오디오 코덱:
+AAC
+
+---
+
+# 6. 제작 과정 요약
+
+1. 브랜드 콘셉트 및 광고 메시지 기획
+2. 씬별 스토리보드 작성
+3. AI 이미지 생성
+4. AI 영상 변환
+5. AI 음악 및 음성 생성
+6. 영상 편집 및 최종 광고 제작
+
+본 프로젝트는 기획 의도를 프롬프트로 변환하고, 생성형 AI 도구를 활용하여 하나의 브랜드 광고 경험으로 통합하는 AI 멀티모달 제작 파이프라인을 설계하는 것을 목표로 한다.
